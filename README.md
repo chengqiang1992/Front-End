@@ -11,6 +11,10 @@
 > * 1.2  CSS
 > * 1.3  JavaScript
 
+#### 1.1 HTML 
+- [ ] [Web Font preloading for HTML5 games](https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/)
+- [x] 新增 Todo 列表功能
+
 #### 1.2 CSS 
 - [ ] [Front-End Challenge Accepted: CSS 3D Cube](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/)
 - [x] 新增 Todo 列表功能
